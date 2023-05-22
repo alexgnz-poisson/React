@@ -1,0 +1,6 @@
+Para trabjajar con react se necesita tener ciertas especificaciones previas una de ellas es 
+tener node con una version mayor o igual a la 15.0
+Y npm con una version mayor o igal a la 8.0
+
+luego para crear se usa
+    npx create-react-app "Nombre del proyectos"
